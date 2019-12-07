@@ -1,0 +1,13 @@
+#card{
+  list-style: none;
+}
+#card li{
+  margin: 5px;
+  width: 30px;
+  height: 50px;
+  float: left;
+  border:solid 1px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
